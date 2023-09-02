@@ -25,4 +25,4 @@ Make sure you have the following libraries installed to run the code:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/uber-fare-prediction.git](https://github.com/Swastik-Dubey/Innomatics_Data_Science/blob/main/Swastik_Dubey_Data_Science_Hiring_Challenge.ipynb
+git clone https://github.com/Swastik-Dubey/Innomatics_Data_Science.git
